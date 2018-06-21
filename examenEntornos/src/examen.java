@@ -87,7 +87,7 @@ public class Productos {
 
   protected int impuestos;
 
-  protected int existencias;
+  protected String existencias;
 
     protected Vector  myPedidos;
 
