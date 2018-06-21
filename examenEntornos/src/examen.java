@@ -55,7 +55,7 @@ public class Pedidos {
 
   private String fechaPedido;
 
-  private Integer costePedido;
+  private int costePedido;
 
   private pago tipopago;
 
@@ -81,13 +81,13 @@ enum plazosodirecto {
 
 public class Productos {
 
-  protected Integer precio;
+  protected int precio;
 
-  protected Integer cantidad;
+  protected int cantidad;
 
-  protected Integer impuestos;
+  protected int impuestos;
 
-  protected Integer existencias;
+  protected int existencias;
 
     protected Vector  myPedidos;
 
