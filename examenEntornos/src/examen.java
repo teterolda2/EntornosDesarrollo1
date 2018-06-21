@@ -18,7 +18,7 @@ public class Cliente {
 
     /**
    * 
-   * @element-type Pedidos
+   * a@element-type Pedidos
    */
   private Vector  myPedidos;
 
